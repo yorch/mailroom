@@ -45,6 +45,9 @@ vendor's hosted services.
 
 ## Install
 
+> Mailroom is installed by hand as a must-use plugin for now. Packaging it as a regular plugin that updates
+> from wp-admin is planned: see [ROADMAP.md](ROADMAP.md).
+
 Copy into `wp-content/mu-plugins/`:
 
 ```
